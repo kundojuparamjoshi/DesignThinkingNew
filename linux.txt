@@ -1,0 +1,10 @@
+Overview
+The Linux command line is a text interface to your computer. Often referred to as the shell, terminal, 
+console, prompt or various other names, it can give the appearance of being complex and confusing to use. 
+Yet the ability to copy and paste commands from a website, combined with the power and flexibility the command line offers, 
+means that using 
+it may be essential when trying to follow instructions online, including many on this very website!
+
+This tutorial will teach you a little of the history of the command line, then walk you through some practical excercises 
+to become familiar with a few basic commands and concepts. We’ll assume no prior knowledge, but by the end we hope you’ll feel 
+a bit more comfortable the next time you’re faced with some instructions that begin “Open a terminal”.
