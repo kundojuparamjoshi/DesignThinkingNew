@@ -1,0 +1,4 @@
+In case you hadn’t guessed, mkdir is short for ‘make directory’. Now that we’re safely inside our test area 
+(double check with pwd if you’re not certain), let’s create a few subdirectories:
+
+mkdir dir1 dir2 dir3
